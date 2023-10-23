@@ -25,7 +25,7 @@ const projects = [
     name: "Book Library",
     picture: bookImg,
     description:
-      "This application is a virtual Book Library, in this application users are able to search for any book using the google books API and create a bookshelf of all the books they want to read and are even able to see what others are reading as well.",
+      "This application is a dynamic Virtual Book Library that offers users an immersive reading experience. With this platform, users can effortlessly explore a vast collection of books using the Google Books API. They can seamlessly search for their favorite titles, discover new reads, and curate a personal bookshelf, providing a digital haven for their reading aspirations.",
     stack: [
       "React",
       "Node.js",
@@ -43,7 +43,7 @@ const projects = [
     name: "Mutant Games",
     picture: mutantGamesimg,
     description:
-      "Worked on a team of 4 engineers, where we built a full MERN stack application for creating and joining video game lobbies, and worked as the git “master” managing and reviewing 7-8 incoming git pull requests daily.",
+      "As a collaborative force within a talented team of four skilled engineers, I had the privilege of contributing to the development of a robust, end-to-end MERN (MongoDB, Express.js, React, Node.js) stack application. Our project was focused on creating and joining video game lobbies, offering an immersive gaming experience for enthusiasts and communities",
     stack: [
       "React",
       "Node.js",
@@ -60,7 +60,7 @@ const projects = [
     name: "Issue Tracker ",
     picture: issueTracker,
     description:
-      "Built a complete CRUD application where users are able to log in Through JWT AUTH, the application also lets users create tickets where other users can share their thoughts on how to solve the tickets and lets you drag the ticket to another section to determine its status this application also uses AWS s3 bucket to store user images",
+      "Developed a secure CRUD application with JWT authentication using React, Node.js, and Express. Users can manage tickets collaboratively with features like dragging them between sections for status updates. The application is built with technologies like Select.js, Modal.js, Material UI, and it integrates with MongoDB for data storage",
     stack: [
       "React",
       "Node.js",
