@@ -40,7 +40,7 @@ const projects = [
     livePreview: "https://astounding-raindrop-a52436.netlify.app/",
   },
   {
-    name: "Muttant Games",
+    name: "Mutant Games",
     picture: mutantGamesimg,
     description:
       "Worked on a team of 4 engineers, where we built a full MERN stack application for creating and joining video game lobbies, and worked as the git “master” managing and reviewing 7-8 incoming git pull requests daily.",
